@@ -1,3 +1,2 @@
 # vitamo
-Messenger like Telegram
-:)
+Telegram-like messenger :)
